@@ -1,10 +1,14 @@
-def (mario)
+def mario
+  phrase =
   puts phrase
-  puts status
 end
 
 def toadstool
-  puts status
+  phrase = 
+  puts phrase
 end
+
 def any_phrase
-  
+  phrase = "Do a barrell roll"
+  puts phrase 
+end
