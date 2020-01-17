@@ -15,5 +15,5 @@ end
 
   
 def any_phrase(phrase)
-   phrase = "It's Dangerous To Go Alone! Take This."
+   phrase = "Do A Barrel Roll"
 end
