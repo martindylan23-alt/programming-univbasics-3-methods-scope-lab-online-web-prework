@@ -14,5 +14,6 @@ def link
 end
 
 def any_phrase
-  catch_phrase = 
+  catch_phrase = "It's Dangerous To Go Alone! Take This."
+  puts catch_phrase
 end
